@@ -1,0 +1,96 @@
+{
+  "term": "Spring",
+  "year": "2018",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "Asian History"
+    ],
+    [
+      "Social Science",
+      "Geography"
+    ],
+    [
+      "Social Science",
+      "Political Science"
+    ],
+    [
+      "Social Science",
+      "Sociology",
+      "Community Development"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Housing Development"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Regional Planning"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Transportation Planning"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ],
+    [
+      "Society",
+      "Global Poverty"
+    ],
+    [
+      "Society",
+      "The Developing World"
+    ],
+    [
+      "Social Science",
+      "Political Science",
+      "International Relations"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Environmental Policy"
+    ]
+  ],
+  "legacy_uid": "1a2298e2-6a2f-20e6-f125-8dcd8773f6bb",
+  "instructors": {
+    "content": [
+      "65a64cda-d0ab-e200-293e-d7879819472b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "0c2ffd76-bb2b-9133-2ab7-2e42788f0e96",
+    "website": "11-384-malaysia-sustainable-cities-practicum-spring-2018"
+  },
+  "course_title": "Malaysia Sustainable Cities Practicum",
+  "course_description": "The {{% resource_link \"081eb99f-410b-40aa-92e8-2fa5d92561a8\" \"Malaysia Sustainable Cities Practicum\" %}} is an intensive field-based course that brings 15 graduate students to Malaysia to learn about and analyze sustainable city development in five cities in Malaysia. The students in the Practicum will help determine the extent to which these efforts have been successful. They will identify specific projects or policy-making efforts that the following year's cohort of International Visiting Scholars can examine more closely.\u00a0\n\n### Lead Faculty\n\nProfessor Larry Susskind\n\n### Teaching Assistants\n\nJessica Gordon  \nYasmin Zaerpoor\n\n### Administrative Staff\n\nTakeo Kuwabara  \nSelmah Goldberg\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "11.385,11.386",
+  "primary_course_number": "11.384",
+  "course_image_thumbnail": {
+    "content": "5dcf2338-dab1-86c7-ba43-3a97010c6de9",
+    "website": "11-384-malaysia-sustainable-cities-practicum-spring-2018"
+  },
+  "learning_resource_types": [
+    "Other Video",
+    "Written Assignments with Examples",
+    "Instructor Insights"
+  ],
+  "site_uid": "178170c1-db36-41c4-b984-19233bfab689",
+  "site_short_id": "11.384-spring-2018",
+  "site_url_path": "courses/11-384-malaysia-sustainable-cities-practicum-spring-2018",
+  "title": "Course Metadata"
+}
