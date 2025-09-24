@@ -1,0 +1,41 @@
+leftnav:
+- identifier: 4fbf09c2-020d-2487-4fca-2bc866013ce3
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 4a316d12-6586-fabe-6f8a-18ffa478dd4a
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 20
+- identifier: 1f0d60d2-bee8-90be-536b-2e3549448e14
+  name: 'Malaysia Sustainable Cities Program: History and Implementation'
+  pageRef: /pages/instructor-insights/malaysia-sustainable-cities-program-history-and-implementation
+  parent: 4a316d12-6586-fabe-6f8a-18ffa478dd4a
+  weight: 30
+- identifier: e357535c-fb8a-d125-607e-c3f40310362e
+  name: Collaborating with Visiting International Scholars
+  pageRef: /pages/instructor-insights/collaborating-with-visiting-international-scholars
+  parent: 4a316d12-6586-fabe-6f8a-18ffa478dd4a
+  weight: 40
+- identifier: bd7dcf48-3bba-73c4-46a6-dc109a96dbbc
+  name: The Role of Reflective Practice
+  pageRef: /pages/instructor-insights/the-role-of-reflective-practice
+  parent: 4a316d12-6586-fabe-6f8a-18ffa478dd4a
+  weight: 50
+- identifier: 3c89ec9d-0b51-35da-aadd-ffeec39fb5cf
+  name: The Role of Online Technology
+  pageRef: /pages/instructor-insights/the-role-of-online-technology
+  parent: 4a316d12-6586-fabe-6f8a-18ffa478dd4a
+  weight: 60
+- identifier: cb99f732-153d-3c8b-0183-be1f42376728
+  name: Pre-Travel Tutorial
+  pageRef: /pages/pre-travel-tutorial
+  weight: 70
+- identifier: 3ed8c575-869c-8483-0a78-d90e1a447f8e
+  name: Research Agendas
+  pageRef: /pages/research-agendas
+  weight: 80
+- identifier: a28be3ab-a197-1e2b-ccf5-fc519a6d0346
+  name: Related Resources
+  pageRef: /pages/related-resources/
+  weight: 90
