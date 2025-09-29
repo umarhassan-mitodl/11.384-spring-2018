@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 file_size: '49378311'
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -30,5 +32,5 @@ video_metadata:
 
 **Instructor:** Dr. Hong Ching Goh
 
-**Working Paper:** "{{% resource_link "dc91809b-d9a5-4c95-9ee3-bad8bd116207" "Assessing Mangrove Conservation Efforts in Iskandar Malaysia" %}}"
+**Working Paper:** "[Assessing Mangrove Conservation Efforts in Iskandar Malaysia](https://malaysiacities.mit.edu/paperGoh)"
 

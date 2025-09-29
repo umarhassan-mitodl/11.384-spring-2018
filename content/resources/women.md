@@ -5,6 +5,8 @@ description: Bidayuk women reflecting on history of the village and relationship
 file: /courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/d1ad496023d34837899852a4251a3f09_women.jpg
 file_size: 46855
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Bidayuk women reflecting on history of the village and relationship with
     palm oil industry. Photo by Rebecca Hui.

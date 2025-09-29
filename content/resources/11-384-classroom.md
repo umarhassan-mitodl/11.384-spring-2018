@@ -4,6 +4,8 @@ description: Street life in Kuala Lumpur, Malaysia.
 file: /courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/6c5aec5357460776ffea7e47e08ed7dc_11-384-classroom.jpg
 file_size: 109821
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

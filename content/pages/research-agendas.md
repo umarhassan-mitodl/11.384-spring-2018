@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: 'This section contains the research agendas written by the students. '
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Research Agendas

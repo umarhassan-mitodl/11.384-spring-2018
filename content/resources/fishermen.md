@@ -5,6 +5,8 @@ description: The leader of a fishing co-op weighs the daily catch of fish and sh
 file: /courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/227d6c317f60528ca4b648591b2ec19b_fishermen.jpg
 file_size: 29136
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: The leader of a fishing co-op weighs daily catch of fish and shrimp. Photo
     by Sera Tolgay.

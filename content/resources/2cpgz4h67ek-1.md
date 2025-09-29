@@ -4,6 +4,8 @@ description: ''
 file: /courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/9491818f8a4f1724c23f017645d2ccb3_2cPGZ4H67Ek.pdf
 file_size: 40255
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

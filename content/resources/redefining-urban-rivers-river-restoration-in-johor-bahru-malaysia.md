@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 file_size: '26738726'
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -30,5 +32,5 @@ video_metadata:
 
 **Instructor:** Dr. Soriya Yin
 
-**Working Paper:** "{{% resource_link "4f146465-f51c-4a72-bf22-14ee7ea06f4f" "Sustainable City Tourism in Developing Countries: Malaysia Experience" %}}"
+**Working Paper:** "[Sustainable City Tourism in Developing Countries: Malaysia Experience](https://malaysiacities.mit.edu/paperYin)"
 

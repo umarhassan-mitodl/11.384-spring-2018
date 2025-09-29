@@ -20,7 +20,7 @@ _In this section, Prof. Lawrence Susskind describes the role that online tools p
 Social Marketing
 ----------------
 
-Online tools are important in many ways to the success of the Malaysia Sustainable Cities Program (MSCP). We depend on social marketing to attract applications from the scholars. You can see that the {{% resource_link "09aeca99-cc6a-42c0-ac43-81cd488f29b4" "MSCP website" %}} is a crucial device through which we seek to build our international network and video distribution. OCW support for distribution of the educational videos produced by the international scholars is the means by which we disseminate these key products.
+Online tools are important in many ways to the success of the Malaysia Sustainable Cities Program (MSCP). We depend on social marketing to attract applications from the scholars. You can see that the [MSCP website](http://malaysiacities.mit.edu/) is a crucial device through which we seek to build our international network and video distribution. OCW support for distribution of the educational videos produced by the international scholars is the means by which we disseminate these key products.
 
 Online Instruction
 ------------------
@@ -32,4 +32,4 @@ We also rely on online instruction for the MIT students preparing to participate
 Multimedia Exhibition
 ---------------------
 
-Finally, we produced a major MIT multimedia exhibition last spring, {{% resource_link "850038b3-793d-4ca9-a34a-f15c3ad063ef" "Female Faces in Sustainable Places" %}}, that is now available online. The exhibition has just moved to Malaysia where it will open this fall in the National Photographic Gallery in Kuala Lumpur. We hope that {{% resource_link "bb1a4eea-f770-447d-9fe6-02655eb1b7b4" "Universiti Teknologi Malaysia" %}} (UTM) and the Malaysian Ministry of Education will use the exhibition to provoke a national online dialogue about the role that women professionals can play in promoting sustainable city development in Malaysia.
+Finally, we produced a major MIT multimedia exhibition last spring, [Female Faces in Sustainable Places](http://web.mit.edu/femalefaces/), that is now available online. The exhibition has just moved to Malaysia where it will open this fall in the National Photographic Gallery in Kuala Lumpur. We hope that [Universiti Teknologi Malaysia](http://www.utm.my/) (UTM) and the Malaysian Ministry of Education will use the exhibition to provoke a national online dialogue about the role that women professionals can play in promoting sustainable city development in Malaysia.

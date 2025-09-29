@@ -4,6 +4,8 @@ description: ''
 file: /courses/11-384-malaysia-sustainable-cities-practicum-spring-2018/409e0a397777c842a0c950bc3bd09ca1_MIT11_384S18_Syllabus.pdf
 file_size: 267140
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

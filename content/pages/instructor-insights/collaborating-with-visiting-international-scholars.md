@@ -4,6 +4,8 @@ description: In this section, Prof. Lawrence Susskind shares how visiting intern
   scholars are selected to participate in the Malaysia Sustainable Cities Program
   (MSCP), describes the role of feedback in the program, and illustrates how he hopes
   participating in the program will impact the careers of the visiting scholars.
+hide_download: true
+hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -19,7 +21,7 @@ _In this section, Prof. Lawrence Susskind shares how visiting international scho
 Selecting the Visiting Scholars
 -------------------------------
 
-The visiting international scholars are selected each year by an Advisory Committee of four MIT and four {{% resource_link "bb1a4eea-f770-447d-9fe6-02655eb1b7b4" "Universiti Teknologi Malaysia" %}} (UTM) faculty members. Applications are sought via international scholarly networks, social media and announcements in various journals with international reach in the relevant fields. At this point, previous MSCP visiting scholars play an increasingly important role in identifying new candidates. We typically expect about 50 – 60 applications from which we choose up to ten. Thus far, we have been able to reach unanimous agreement on the 8 – 10 scholars selected each year.
+The visiting international scholars are selected each year by an Advisory Committee of four MIT and four [Universiti Teknologi Malaysia](http://www.utm.my/) (UTM) faculty members. Applications are sought via international scholarly networks, social media and announcements in various journals with international reach in the relevant fields. At this point, previous MSCP visiting scholars play an increasingly important role in identifying new candidates. We typically expect about 50 – 60 applications from which we choose up to ten. Thus far, we have been able to reach unanimous agreement on the 8 – 10 scholars selected each year.
 
 All applicants must hold PHD degrees and have had college or university teaching experience. Faculty from all fields involved in the study of urban sustainability are eligible to apply. There is no typical background. We have included Scientists, Engineers, Planners, Architects, Social Scientists and Business/Management professors.
 

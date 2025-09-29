@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains general information about the schedule and goals
   of the course and the details about assignments and grading.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -11,7 +13,7 @@ uid: 4fbf09c2-020d-2487-4fca-2bc866013ce3
 Prerequisites
 -------------
 
-Students must apply and be accepted into the {{% resource_link "b38a2036-d3a2-43fb-a908-9376d26034ef" "Malaysia Sustainable Cities Practicum" %}}.
+Students must apply and be accepted into the [Malaysia Sustainable Cities Practicum](https://malaysiacities.mit.edu/).
 
 Syllabus
 --------
@@ -53,4 +55,4 @@ Under the direction of the MIT Faculty Committee for the program, students will 
 
 ### Spring: Report Writing
 
-The final portion of the Practicum concludes with a group report-writing session during the last week of IAP for which all students must be present. The students will produce a Research Agenda for the coming year. Prior Research Agenda can be accessed at the {{% resource_link "d4d65920-956c-4b85-b27c-0c3d22824eaa" "Malaysia Sustainable Cities Practicum" %}} website.
+The final portion of the Practicum concludes with a group report-writing session during the last week of IAP for which all students must be present. The students will produce a Research Agenda for the coming year. Prior Research Agenda can be accessed at the [Malaysia Sustainable Cities Practicum](https://malaysiacities.mit.edu/researchagenda) website.

@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 file_size: '24406243'
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -30,5 +32,5 @@ video_metadata:
 
 **Instructor:** Dr. Tej Kumar Karki
 
-**Working Paper:** "{{% resource_link "ef525240-47b9-4d40-ad9b-de7e1f95cd37" "How Capable Are Local Residents and Local Governments at Coping with and Adapting to Flood Disasters in Malaysian Cities?" %}}"
+**Working Paper:** "[How Capable Are Local Residents and Local Governments at Coping with and Adapting to Flood Disasters in Malaysian Cities?](http://malaysiacities.mit.edu/paperKarki)"
 

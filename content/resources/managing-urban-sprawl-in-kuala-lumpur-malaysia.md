@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 file_size: '37574810'
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -30,5 +32,5 @@ video_metadata:
 
 **Instructor:** Dr. Malik Asghar Naeem
 
-**Working Paper:** "{{% resource_link "9ba38669-8cfc-47a5-a0b5-5181ff58603e" "Policies and Issues Concerning Urban Sprawl and Compact Development Paradigm Adoption in Greater Kuala Lumpur, Malaysia" %}}"
+**Working Paper:** "[Policies and Issues Concerning Urban Sprawl and Compact Development Paradigm Adoption in Greater Kuala Lumpur, Malaysia](https://malaysiacities.mit.edu/paperNaeem)"
 

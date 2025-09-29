@@ -4,6 +4,8 @@ description: ''
 end_time: ''
 file: null
 file_size: '16334182'
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -30,5 +32,5 @@ video_metadata:
 
 **Instructor:** Carlos de la Torre
 
-**Working Paper:** "{{% resource_link "15a02723-da4e-492c-bbbb-d1f0b8692c5d" "Finding Energy Subsidy Savings for Malaysian Cities" %}}"
+**Working Paper:** "[Finding Energy Subsidy Savings for Malaysian Cities](http://malaysiacities.mit.edu/paperDeLaTorre)"
 
