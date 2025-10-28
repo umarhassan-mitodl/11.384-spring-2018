@@ -74,8 +74,7 @@
     "website": "11-384-malaysia-sustainable-cities-practicum-spring-2018"
   },
   "course_title": "Malaysia Sustainable Cities Practicum",
-  "hide_download": true,
-  "course_description": "The [Malaysia Sustainable Cities Practicum](https://malaysiacities.mit.edu/practicum) is an intensive field-based course that brings 15 graduate students to Malaysia to learn about and analyze sustainable city development in five cities in Malaysia. The students in the Practicum will help determine the extent to which these efforts have been successful. They will identify specific projects or policy-making efforts that the following year's cohort of International Visiting Scholars can examine more closely.\u00a0\n\n### Lead Faculty\n\nProfessor Larry Susskind\n\n### Teaching Assistants\n\nJessica Gordon  \nYasmin Zaerpoor\n\n### Administrative Staff\n\nTakeo Kuwabara  \nSelmah Goldberg\n",
+  "course_description": "The {{% resource_link \"82f1eb6f-ac9c-4b23-97ad-c161b9fab1fd\" \"Malaysia Sustainable Cities Practicum\" %}} is an intensive field-based course that brings 15 graduate students to Malaysia to learn about and analyze sustainable city development in five cities in Malaysia. The students in the Practicum will help determine the extent to which these efforts have been successful. They will identify specific projects or policy-making efforts that the following year's cohort of International Visiting Scholars can examine more closely.\u00a0\n\n### Lead Faculty\n\nProfessor Larry Susskind\n\n### Teaching Assistants\n\nJessica Gordon  \nYasmin Zaerpoor\n\n### Administrative Staff\n\nTakeo Kuwabara  \nSelmah Goldberg\n",
   "department_numbers": [
     "11"
   ],
@@ -85,7 +84,6 @@
     "content": "5dcf2338-dab1-86c7-ba43-3a97010c6de9",
     "website": "11-384-malaysia-sustainable-cities-practicum-spring-2018"
   },
-  "hide_download_original": null,
   "learning_resource_types": [
     "Other Video",
     "Written Assignments with Examples",
