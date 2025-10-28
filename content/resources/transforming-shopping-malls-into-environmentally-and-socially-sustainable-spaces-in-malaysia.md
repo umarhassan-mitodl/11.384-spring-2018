@@ -4,8 +4,6 @@ description: ''
 end_time: ''
 file: null
 file_size: '31578617'
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -33,5 +31,5 @@ video_metadata:
 
 **Instructor:** Dr. Akinropo Oluremi Akindele
 
-**Working Paper:** "[A Comparative Analysis of Shopping Malls in Putrajaya and Bukit Indah, Malaysia](https://malaysiacities.mit.edu/paperAkinropo)"
+**Working Paper:** "{{% resource_link "580080dd-8856-4435-b668-fd9294cbb8a8" "A Comparative Analysis of Shopping Malls in Putrajaya and Bukit Indah, Malaysia" %}}"
 

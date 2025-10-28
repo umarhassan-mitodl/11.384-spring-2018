@@ -4,8 +4,6 @@ description: ''
 end_time: ''
 file: null
 file_size: '31549254'
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -33,5 +31,5 @@ video_metadata:
 
 **Instructor:** Dr. Gurupiah Mursib
 
-**Working Paper:** "[Significance of Local Involvement in Continuing Local Architectural Identity](http://malaysiacities.mit.edu/paperMursib)"
+**Working Paper:** "{{% resource_link "09eda1bf-82da-427b-bd0a-22f567f03802" "Significance of Local Involvement in Continuing Local Architectural Identity" %}}"
 

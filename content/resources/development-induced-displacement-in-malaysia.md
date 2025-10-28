@@ -4,8 +4,6 @@ description: ''
 end_time: ''
 file: null
 file_size: '29930327'
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -32,5 +30,5 @@ video_metadata:
 
 **Instructor:** Dr. Reazul Ahsan
 
-**Working Paper:** "[Mega-Infrastructure Development-Induced Displacement in East Malaysia: A Study of Social Sustainability](https://malaysiacities.mit.edu/paperAhsan)"
+**Working Paper:** "{{% resource_link "81e63369-621a-4b0e-93fb-03d6bec82c75" "Mega-Infrastructure Development-Induced Displacement in East Malaysia: A Study of Social Sustainability" %}}"
 

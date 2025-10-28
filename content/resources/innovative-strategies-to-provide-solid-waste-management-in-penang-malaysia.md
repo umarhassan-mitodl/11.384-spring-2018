@@ -4,8 +4,6 @@ description: ''
 end_time: ''
 file: null
 file_size: '31861525'
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -32,5 +30,5 @@ video_metadata:
 
 **Instructor:** Dr. Jose A. Puppim de Oliveira
 
-**Working Paper:** "[Bridging Governmental Relations in Urban Management: The Case of Solid Waste Management and Climate Change in Two Malaysian States](https://malaysiacities.mit.edu/paperOliveira)"
+**Working Paper:** "{{% resource_link "e550142a-fa51-465d-bc42-da309076c80f" "Bridging Governmental Relations in Urban Management: The Case of Solid Waste Management and Climate Change in Two Malaysian States" %}}"
 

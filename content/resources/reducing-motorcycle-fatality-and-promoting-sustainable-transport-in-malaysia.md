@@ -4,8 +4,6 @@ description: ''
 end_time: ''
 file: null
 file_size: '37745805'
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -32,5 +30,5 @@ video_metadata:
 
 **Instructor:** Dr. Akmal Abdelfatah
 
-**Working Paper:** "[Traffic Fatality Causes and Trends in Malaysia](https://malaysiacities.mit.edu/paperAbdelfatah)"
+**Working Paper:** "{{% resource_link "9870ca0d-6f68-43c5-bf1e-3f229dc4d35b" "Traffic Fatality Causes and Trends in Malaysia" %}}"
 

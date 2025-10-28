@@ -4,8 +4,6 @@ description: ''
 end_time: ''
 file: null
 file_size: '28690171'
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -32,5 +30,5 @@ video_metadata:
 
 **Instructor:** Dr. Isiaka Adeyemi Abdul-Azeez
 
-**Working Paper:** "[Measuring and Monitoring Carbon Emission to Promote Low-Carbon Development in Johor Bahru](https://malaysiacities.mit.edu/paperAdeyemi)"
+**Working Paper:** "{{% resource_link "da163db9-778c-4b7f-8778-8dd8798d9ef1" "Measuring and Monitoring Carbon Emission to Promote Low-Carbon Development in Johor Bahru" %}}"
 

@@ -4,8 +4,6 @@ description: ''
 end_time: ''
 file: null
 file_size: '26750297'
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -32,5 +30,5 @@ video_metadata:
 
 **Instructor:** Dr. Nor Aishah Saidina Amin
 
-**Working Paper:** "[Reducing Carbon Dioxide Emissions in Biomass Power Plants Using the INCAM Model](https://malaysiacities.mit.edu/paperAmin)"
+**Working Paper:** "{{% resource_link "87777d64-5feb-44a7-abe7-f677882281ab" "Reducing Carbon Dioxide Emissions in Biomass Power Plants Using the INCAM Model" %}}"
 
